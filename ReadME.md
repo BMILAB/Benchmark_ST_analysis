@@ -49,7 +49,7 @@ Here is a list of ST analysis tools with links to their respective documentation
 
 * [SpaCell](https://github.com/BiomedicalMachineLearning/SpaCell) (Tan et al., 2020) classifies cell types and disease stages by merging H&E image features with gene expression data through neural networks.
 
-* [ConST](https://github.com/yszong/conST) (Zong et al., 2022) is an interpretable framework that extracts morphological features and captures spatial relationships for contrast learning.
+* [ConST](https://github.com/ys-zong/conST) (Zong et al., 2022) is an interpretable framework that extracts morphological features and captures spatial relationships for contrast learning.
 * [STAGATE](https://github.com/QIFEIDKN/STAGATE) (Dong and Zhang, 2022) combines spatial location with gene expression data using a graph attention autoencoder for various downstream tasks.
 
 * [SEDR](https://github.com/JinmiaoCHEnLab/SEDR) (Fu et al., 2021) integrates gene expression and spatial information to enhance clustering and visualization through deep self-encoders.
